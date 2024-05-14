@@ -2,7 +2,7 @@
 
 Problem Statement:
 
-You work for a data analytics company, and your client is a food delivery platform similar to Jomato. They have provided you with a dataset containing information about various restaurants in a city. Your task is to analyze this dataset using SQL queries to extract valuable insights and generate reports for your client.
+You work for a data analytics company, and your client is a food delivery platform similar to Zomato. They have provided you with a dataset containing information about various restaurants in a city. Your task is to analyze this dataset using SQL queries to extract valuable insights and generate reports for your client.
 
 Tasks to be performed:
 
